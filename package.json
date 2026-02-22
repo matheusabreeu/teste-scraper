@@ -1,8 +1,6 @@
 {
-  "name": "teste-scraper",
-  "version": "1.0.0",
   "dependencies": {
-    "@sparticuz/chromium": "122.0.0",
+    "@sparticuz/chromium": "123.0.1",
     "puppeteer-core": "22.6.0"
   }
 }
